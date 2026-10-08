@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 checkpoints/*.pth
 outputs/*.pt
+学习与项目进度记录.md
+tmp/
