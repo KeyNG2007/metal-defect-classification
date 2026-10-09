@@ -1,0 +1,8 @@
+已解码图片数：1800
+完全相同图片组数：1
+跨训练/验证集重复组数：0
+检查范围：转换为 RGB 后像素完全相同；不排除近似图片或同一场景泄漏。
+
+重复组：
+train: data\raw\NEU-DET\train\images\patches\patches_101.jpg
+train: data\raw\NEU-DET\train\images\patches\patches_105.jpg
